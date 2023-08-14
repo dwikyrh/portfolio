@@ -4,7 +4,7 @@ body {
   font-family: "Inter", sans-serif;
   scroll-behavior: smooth;
 }
-/* Navigation */
+/* navigation */
 nav ul li {
   margin: 0 15px;
 }
@@ -14,7 +14,7 @@ nav ul li a {
 nav ul li a:hover {
   color: #f6b93b !important;
 }
-/* Hero Image */
+/* hero Image */
 .hero-container {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
     url("../img/hero.png");
@@ -65,7 +65,7 @@ nav ul li a:hover {
   background-color: #5d6d7e;
 }
 
-/* Portfolio */
+/* portfolio */
 .portfolio {
   margin-bottom: 20px;
 }
